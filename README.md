@@ -1,6 +1,6 @@
 # 🩺 First Aid Dataset
 
-![Banner](https://github.com/alaaels1/first-aid-dataset/blob/main/banner.png?raw=true)
+![Banner](https://github.com/alaaels1/first-aid-dataset/blob/main/banner_1.png?raw=true)
 
 ## 📌 Overview
 
