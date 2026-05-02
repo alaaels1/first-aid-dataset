@@ -16,12 +16,10 @@ The dataset is built to be:
 ---
 ## 📁 Dataset Structure
 
-This dataset is organized to support a First Aid application with structured medical content, images, and localization support.
-
 ```
 FIRST-AID-DATASET/
 ├── assets/
-│   └── images/                          # First aid related images categorized by case type
+│   └── images/
 │       ├── allergies_skin/
 │       ├── burns/
 │       ├── cpr/
@@ -39,19 +37,14 @@ FIRST-AID-DATASET/
 │       └── wounds_bleeding/
 │
 ├── data/
-│   ├── arabic/                          # Arabic localized content
-│   │   ├── emergency_numbers/           # Emergency numbers per country
-│   │   │   └── arab_countries_emergency_numbers.json
-│   │   │
-│   │   ├── first_aid_kit/               # First aid kit contents and instructions
-│   │   │   └── first_aid_kit.json
-│   │   │
-│   │   └── first_aid_data/              # Core first aid cases and instructions
-│   │       └── first_aid_data.json
+│   ├── arabic/
+│   │   ├── emergency_numbers/
+│   │   ├── first_aid_kit/
+│   │   └── first_aid_data/
 │   │
-│   └── english/                         # Reserved for future English localization
+│   └── english/
 │
-├── banner_1.png                         # Project banner
+├── banner_1.png
 ├── LICENSE
 ├── README.md
 └── .gitattributes
