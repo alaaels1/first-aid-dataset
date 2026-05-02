@@ -14,10 +14,6 @@ The dataset is built to be:
 - 👶 Includes adult and child instructions
 
 ---
-
-### 📁 Dataset Structure
-
-```bash
 ## 📁 Dataset Structure
 
 This dataset is organized to support a First Aid application with structured medical content, images, and localization support.
@@ -91,5 +87,3 @@ FIRST-AID-DATASET/
 * Supports **offline usage** بالكامل
 * Easy to extend (إضافة حالات أو لغات جديدة بدون تعديل كبير)
 * Optimized for **fast lookup and search using keywords**
-
-```
